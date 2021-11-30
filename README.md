@@ -1,4 +1,3 @@
-
 # Porting of `SamSWAT-SCARH`
 ![alt text](https://media.discordapp.net/attachments/417281262085210112/863173813407580240/scar-h_tex_overhaul_comparison.png)
 ![alt text](https://media.discordapp.net/attachments/417281262085210112/863173800660172880/scar-h_fde_tex_overhaul_comparison.png)
@@ -63,9 +62,11 @@ To do that I erase everything that is unneeded:
 ![selected](https://i.imgur.com/uQ96S5O.png)
 
 ... and it should look how it does below. 
+
 ![what](https://i.imgur.com/nxcDMJN.png)
 
-**Repeat** the steps for the below: 
+**Repeat** the steps for the below:
+
 ![](https://i.imgur.com/Q68ta6w.png) 
 
 ![](https://i.imgur.com/Mfwzv8a.png)
@@ -99,6 +100,7 @@ I'm in now in `.\audio\banks`, full path is `.\SamSWAT-SCARH\bundles\assets\cont
 - Open
 
 - Click `Info` button and be brought to the `Assets info` window
+
 ![](https://i.imgur.com/AQTsggF.png)
 
 - Click the `Container` tab and find and select `Type` **AssetBundle**
@@ -114,6 +116,7 @@ I'm in now in `.\audio\banks`, full path is `.\SamSWAT-SCARH\bundles\assets\cont
 - Re-open your `bundles.json` 
   - We know that we're in `\audio\banks`, so CTRL+F `banks`
   - Find the corresponding `key`
+
 ![](https://i.imgur.com/nUd4R5T.png)
 
 As stated earlier, `key` is the true name of this file.\
@@ -137,12 +140,14 @@ It looks as if `\audio\banks` is in order, so we are going to save the `dump`.
 - Go into your `dump` file
 - **Erase the contents** *(we're going to use this as staging)*
 - Go over to your minimized `bundles.json` and copy the `dependencyKeys`
+
 ![](https://i.imgur.com/bJxlXBw.png)
 - Paste into your `dump` that you erased
   - Remove any spaces at the end of any of the lines (or you will get an error)
 - `Save As...`
   - Your manifest will be the bundle name plus `.manifest`
     - `mk17.bundle.manifest`
+    
 ![](https://i.imgur.com/KKW4FSL.png)
 
 This is what your `ported_banks` folder will resemble. You're probably thinking that it was pretty simple, and realistically it is.\
