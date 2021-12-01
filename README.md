@@ -91,7 +91,7 @@ Save and minimize this file so we can come back to it!
   `What do we do?` \
   **Well, we're gonna choose a folder and start going.**\
   You'll hopefully come up with your own flow for things as we progress and you get practice in. You'll start to learn that there is sort of a pyramid effect and be able to tell what needs to be done first.
-### `Fixing Audio Bundles`
+
 I'm in now in `.\audio\banks`, full path is `.\SamSWAT-SCARH\bundles\assets\content\audio\banks`.
 
 ![](https://i.imgur.com/kikTTwR.png)
@@ -166,7 +166,7 @@ Continuing, I have moved to `.\SamSWAT-SCARH\bundles\assets\content\audio\weapon
   - Save
   - Continue with the above steps
 
-### `Fixing The Weapon`
+### `Weapon Fixing Hierachy`
 ![](https://i.imgur.com/i84kTyR.png)
 
 We're now in `\SamSWAT-SCARH\bundles\assets\content\weapons\scar-h`, and this is what your folder should look like. For the moment we're going to ignore `tan`.
