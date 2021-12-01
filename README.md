@@ -6,7 +6,6 @@ This documentation is meant as an easy-to-follow tool to help the reader underst
 
 \
 I, and anyone has permission to do this.
-\
 
 **Here are my papers**
 ![permission slip](https://cdn.discordapp.com/attachments/811997332988100628/905496544034316318/unknown.png)
