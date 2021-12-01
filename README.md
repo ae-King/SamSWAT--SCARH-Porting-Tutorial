@@ -48,7 +48,7 @@ It probably looks a little daunting but everything will make sense in a bit.
 ### `What You're Looking At`
  `"key"` - the internal path of the `.bundle`
  - Consider `"key"` to be the bundles real name and the filename as its nickname
- `"dependencyKeys"` - the **link** names of the bundle
+  - Consider `"dependencyKeys"` - the **link** names of the bundle
 
 \
 All of these names to be exact - and it's safe practice to make `.bundle.manifest`\
