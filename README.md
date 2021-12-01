@@ -5,7 +5,8 @@
 This documentation is meant as an easy-to-follow tool to help the reader understand what needs to be done during the `porting` process. 
 
 \
-I, and anyone has permission to do this.\ **Here are my papers**
+I, and anyone has permission to do this.\ 
+**Here are my papers**
 ![permission slip](https://cdn.discordapp.com/attachments/811997332988100628/905496544034316318/unknown.png)
 If something in this tutorial is unclear then I need a proper description of what is unclear so that it can be updated.
 \
