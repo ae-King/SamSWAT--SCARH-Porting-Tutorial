@@ -101,7 +101,7 @@ I'm in now in `.\audio\banks`, full path is `.\SamSWAT-SCARH\bundles\assets\cont
 - Select the `mk17.bundle`
   - Copy the File name (we're gonna need it later)
 - Open
-- 
+  
 ![](https://i.imgur.com/AQTsggF.png)
 
 - Click `Info` button and be brought to the `Assets info` window
